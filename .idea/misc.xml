@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.25625" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.25625" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25625" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_add_to_chart.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_fav.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_feeed_back.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_order_succeess.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_place_your_order.xml" value="0.264" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_reciepe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_recipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_sign_up.xml" value="0.264" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/cardview_recipe.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/cart_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/child.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/favourites.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/meals.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/navgraph.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/layout/toolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/dell/Desktop/Food App/app/src/main/res/menu/navigate_menu.xml" value="0.24010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
